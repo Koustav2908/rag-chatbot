@@ -23,7 +23,7 @@ This is a Java DSA (Data Structures and Algorithms) `RAG` (Retrieval-Augmented G
 
 ## 📽️ Demo of the chat application
 
-<video controls src="demo/rag-demo.mp4" title="Title"></video>
+<img src="demo/rag-demo.gif" alt="RAG Chatbot demo" />
 
 ---
 
